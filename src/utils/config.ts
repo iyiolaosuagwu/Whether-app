@@ -14,7 +14,7 @@ export const wp = (val: number) => {
   return widthPercentageToDP(num);
 };
 
-export const apikey = 'KGs3wEraUXci716E1wJFzIsPEuIEpYPv';
+export const apikey = '4QBW8FW6l0gRZ9NBD7ipcGLcKtysN9zk';
 export const fields = [
   'precipitationIntensity',
   'precipitationType',
